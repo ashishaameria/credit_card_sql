@@ -2,13 +2,13 @@
 
 This project provides a detailed SQL-based analysis of credit card transaction data. The goal is to extract meaningful insights from the dataset, such as spending patterns across cities, card types, and expense categories. By using advanced SQL queries, we aim to offer a comprehensive understanding of consumer behavior, transaction trends, and potential growth opportunities.
 
----
+
 
 ## Project Overview
 
 This project includes several SQL queries to analyze credit card transactions, uncovering insights such as the top spending cities, most popular expense types, and card-specific patterns. Each query addresses a specific business problem or opportunity, helping in strategic decision-making for targeted marketing and customer segmentation.
 
----
+
 
 ## Queries and Key Insights
 
@@ -39,7 +39,7 @@ This project includes several SQL queries to analyze credit card transactions, u
 9. **City Reaching 500 Transactions Fastest**
    - **Insights:** **Bengaluru** reached 500 transactions in just **81 days**, reflecting a high level of transaction activity and consumer engagement.
 
----
+
 
 ## Tools and Technologies
 
