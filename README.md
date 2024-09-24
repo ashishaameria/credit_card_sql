@@ -45,5 +45,5 @@ This project includes several SQL queries to analyze credit card transactions, u
 
 - **SQL**: Primary tool for querying and analyzing the dataset.
 
----
+
 
